@@ -1,0 +1,53 @@
+header{
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+
+header {
+    text-align: center;
+    background-color: lightskyblue;
+    color: white;
+    font-size: 32px;
+}
+
+.container {
+    text-align: center;
+    border: 1px solid black;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    border-radius:5px;
+    background-color: rgb(174, 220, 248);
+}
+
+.indexlist {
+    list-style: none;
+}
+
+.indexlist li {
+    margin-bottom: 1.5rem;
+}
+
+.outter {
+    background-color: rgb(174, 220, 248);
+}
+
+.outter.recipe {
+    margin-left: 6rem;
+    margin-right: 6.5rem;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    width: 25rem;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.steps {
+    margin-left: 2rem;
+}
